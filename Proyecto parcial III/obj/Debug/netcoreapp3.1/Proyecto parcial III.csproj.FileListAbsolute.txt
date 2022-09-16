@@ -1,0 +1,58 @@
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\Proyecto parcial III.exe
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\Proyecto parcial III.deps.json
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\Proyecto parcial III.runtimeconfig.json
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\Proyecto parcial III.runtimeconfig.dev.json
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\Proyecto parcial III.dll
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\Proyecto parcial III.pdb
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.csproj.AssemblyReference.cache
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto_parcial_III.Form1.resources
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.csproj.GenerateResource.cache
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.AssemblyInfo.cs
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.csproj.CopyComplete
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.dll
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.pdb
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.genruntimeconfig.cache
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto_parcial_III.crlst.resources
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto_parcial_III.listascrud.resources
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto_parcial_III.verlst.resources
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto_parcial_III.editar.resources
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto_parcial_III.eliminar.resources
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto_parcial_III.Properties.Resources.resources
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\Proyecto parcial III.exe
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\Proyecto parcial III.deps.json
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\Proyecto parcial III.runtimeconfig.json
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\Proyecto parcial III.runtimeconfig.dev.json
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\Proyecto parcial III.dll
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\Proyecto parcial III.pdb
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.csproj.AssemblyReference.cache
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto_parcial_III.crlst.resources
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto_parcial_III.editar.resources
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto_parcial_III.eliminar.resources
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto_parcial_III.Form1.resources
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto_parcial_III.listascrud.resources
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto_parcial_III.Properties.Resources.resources
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto_parcial_III.verlst.resources
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.csproj.GenerateResource.cache
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.AssemblyInfo.cs
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.csproj.CopyComplete
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.dll
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.pdb
+C:\Users\migue\Desktop\ARCHIVOS MIGUEL\Archivos U\Ciclo II 2021\Programación II\Proyecto parcial III\obj\Debug\netcoreapp3.1\Proyecto parcial III.genruntimeconfig.cache

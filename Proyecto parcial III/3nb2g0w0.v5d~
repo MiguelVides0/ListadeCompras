@@ -1,0 +1,47 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+
+namespace Proyecto_parcial_III
+{
+    public partial class verlst : Form
+    {
+        string codlista;
+        public verlst(string codlista)
+        {
+            InitializeComponent();
+            this.codlista = codlista;
+            metlistas ensenar = new metlistas();
+            dataGridView1.DataSource = ensenar.buscar((string)codlista);
+            rsum sum = ensenar.sumar(codlista);
+            textBox1.Text = sum.Total.ToString();
+
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            crlst abrir = new crlst();
+            abrir.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int id = 0;
+            try
+            {
+                id = int.Parse(dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells[0].Value.ToString());
+                editar edit = new editar(id);
+                edit.Show();
+            }
+            catch
+            {
+                MessageBox.Show("Seleccione un ID");
+            }
+        }
+    }
+}
